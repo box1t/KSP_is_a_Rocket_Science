@@ -3,19 +3,19 @@
 ### Миссия смоделирована в игре Kerbal Space Program
 
 
-![image1]()
-![image2]()
+![image2](https://github.com/box1t/KSP_is_a_Rocket_Science/blob/main/resources/image2.jpg)
+![image1](https://github.com/box1t/KSP_is_a_Rocket_Science/blob/main/resources/image1.jpeg)
 
 
 ## Проектные реализации
 
 - Полёт на орбиту Муны в игре KSP.
 - График зависимости скорости ракеты от времени до выхода на орбиту Земли.
-![speed]()
+![speed](https://github.com/box1t/KSP_is_a_Rocket_Science/blob/main/resources/speed.png)
 - График зависимости ускорения от высоты над уровнем моря до орбиты Земли.
-![accel]()
+![accel](https://github.com/box1t/KSP_is_a_Rocket_Science/blob/main/resources/accel.png)
 - График изменения массы ракеты с течением времени.
-![mass]()
+![mass](https://github.com/box1t/KSP_is_a_Rocket_Science/blob/main/resources/mass.jpeg)
 
 
 ## Стек используемых технологий
@@ -35,4 +35,4 @@
 За идею взят полёт на Луну в космической миссии [Аполлон-15](http://epizodyspace.ru/e2/foto-e2/a-15/a15.html).
 Именно там используется ракетоноситель [Saturn V](https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%82%D1%83%D1%80%D0%BD-5).
 
-![saturnv]()
+![saturnv](https://github.com/box1t/KSP_is_a_Rocket_Science/blob/main/resources/saturnv.jpg)
