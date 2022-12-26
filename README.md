@@ -2,6 +2,9 @@
 ## Apolleone-51 space mission
 ### Миссия смоделирована в игре Kerbal Space Program
 
+## Отчёт
+- Документация по проекту [(click)]()
+- Видео с полётом [(watch here)]()
 
 ![image2](https://github.com/box1t/KSP_is_a_Rocket_Science/blob/main/resources/image2.jpg)
 ![image1](https://github.com/box1t/KSP_is_a_Rocket_Science/blob/main/resources/image1.jpeg)
@@ -24,11 +27,6 @@
  Орбитальные перелёты и сбор игровых данных также выполены благодаря нему.
 - Для визуализации анализируемых данных используется **язык программирования** ***Python*** и библиотеки ***numpy*** и ***matplotlib***.
 - Эти средства программирования позволяют начинающим программистам реализовать свои графические фантазии, что мы и сделали.
-
-## Отчёт
-- Документация по проекту [(click)]()
-- Видео с полётом [(watch here)]()
-
 
 
 ## Прототип нашей миссии
