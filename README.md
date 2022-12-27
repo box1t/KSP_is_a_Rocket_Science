@@ -3,8 +3,7 @@
 ### Миссия смоделирована в игре Kerbal Space Program
 
 ## Отчёт
-- Документация по проекту [(click)]()
-- Презентация команды [(check out)]()
+- Документация по проекту [(click)](https://drive.google.com/drive/folders/1XdVH3SHKmJD_LZe6_IY8FsmqaewwoLcZ)
 - Видео с полётом [(watch here)](https://youtu.be/RkP5cObx-1M)
 
 ![image2](https://github.com/box1t/KSP_is_a_Rocket_Science/blob/main/resources/image2.jpg)
