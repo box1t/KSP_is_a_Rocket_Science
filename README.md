@@ -5,7 +5,7 @@
 ## Отчёт
 - Документация по проекту [(click)]()
 - Презентация команды [(check out)]()
-- Видео с полётом [(watch here)]()
+- Видео с полётом [(watch here)](https://youtu.be/RkP5cObx-1M)
 
 ![image2](https://github.com/box1t/KSP_is_a_Rocket_Science/blob/main/resources/image2.jpg)
 ![image1](https://github.com/box1t/KSP_is_a_Rocket_Science/blob/main/resources/image1.jpeg)
